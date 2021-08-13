@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/raymondzeng28.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/raymondzeng28.github.io/static/js/main.d49005da.chunk.js",
+    "main.js.map": "/raymondzeng28.github.io/static/js/main.d49005da.chunk.js.map",
+    "runtime-main.js": "/raymondzeng28.github.io/static/js/runtime-main.6d8bc9ee.js",
+    "runtime-main.js.map": "/raymondzeng28.github.io/static/js/runtime-main.6d8bc9ee.js.map",
+    "static/js/2.6c1be958.chunk.js": "/raymondzeng28.github.io/static/js/2.6c1be958.chunk.js",
+    "static/js/2.6c1be958.chunk.js.map": "/raymondzeng28.github.io/static/js/2.6c1be958.chunk.js.map",
+    "static/js/3.d34b9b27.chunk.js": "/raymondzeng28.github.io/static/js/3.d34b9b27.chunk.js",
+    "static/js/3.d34b9b27.chunk.js.map": "/raymondzeng28.github.io/static/js/3.d34b9b27.chunk.js.map",
+    "index.html": "/raymondzeng28.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/raymondzeng28.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6c1be958.chunk.js.LICENSE.txt": "/raymondzeng28.github.io/static/js/2.6c1be958.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/raymondzeng28.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d8bc9ee.js",
+    "static/js/2.6c1be958.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d49005da.chunk.js"
+  ]
+}
